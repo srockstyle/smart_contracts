@@ -39,3 +39,9 @@ contract HelloSolidity {
 function helloWorld()  {
 }
 ```
+
+## エラ〜メッセージ
+0.6からこれつけないとwarningが出る。
+```
+// SPDX-License-Identifier: MIT
+```

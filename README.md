@@ -2,7 +2,9 @@
 Solidity頑張ります。
 
 ## 基本
+
 - 文法
+- remix
 - 文章を出力する / print的な
 - 変数
 - 条件分岐
@@ -37,8 +39,9 @@ Solidity頑張ります。
 - レシートをもらう
 
 ## 公式リポジトリ
-https://github.com/ethereum/solidity
-C++。
+C++で書かれてるっぽい。
+- https://github.com/ethereum/solidity
+
 
 ## ドキュメント
 https://solidity-jp.readthedocs.io/ja/latest/index.html
@@ -46,18 +49,24 @@ https://solidity-jp.readthedocs.io/ja/latest/index.html
 ## Wikipedia
 https://en.wikipedia.org/wiki/Solidity
 
-## ためしに実行できるWebツール
+## 開発ツール
 https://remix.ethereum.org
+
+デスクトップ版もあるよ
+https://github.com/ethereum/remix-desktop/releases
+
+## 開発環境をつくる
+- https://qiita.com/zaburo/items/9c8fab5da3b7d782ee89
 
 ## 最新リリース。
 今は0.6.10
-https://github.com/ethereum/solidity/releases
+- https://github.com/ethereum/solidity/releases
 
 ## 学習ツール
 ### CryptoZombies
 https://cryptozombies.io/jp/
 
 ## atomのプラグイン勢
-https://atom.io/packages/search?utf8=✓&q=keyword:solidity
-いれた。
-https://atom.io/packages/etheratom
+vimだといいのなかったのでatomで始めた。その時いれた。
+- https://atom.io/packages/search?utf8=✓&q=keyword:solidity
+- https://atom.io/packages/etheratom
