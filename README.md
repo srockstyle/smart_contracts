@@ -44,6 +44,10 @@ C++で書かれてるっぽい。
 
 
 ## ドキュメント
+https://solidity.readthedocs.io/en/v0.6.10/
+
+### 日本語
+古いので参考にならない。
 https://solidity-jp.readthedocs.io/ja/latest/index.html
 
 ## Wikipedia
