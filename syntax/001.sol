@@ -1,8 +1,10 @@
-pragma solidity ^0.6.10;
-// SPDX-License-Identifier: MIT
+pragma solidity ^0.5.0;
+// SPDX-License-Identifier: UNLICENSED>
+contract TestString {
 
-contract HelloWorld{
-    function Hello()external pure returns (string memory) {
-        return "Hello World";
+    //メソッド
+    string public text = 'show me';
+    function test() public view returns (string memory) {
+        return text;
     }
 }
