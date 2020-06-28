@@ -74,3 +74,7 @@ https://cryptozombies.io/jp/
 vimだといいのなかったのでatomで始めた。その時いれた。
 - https://atom.io/packages/search?utf8=✓&q=keyword:solidity
 - https://atom.io/packages/etheratom
+
+## Kaleido
+簡単な流れ
+- https://docs.kaleido.io/developer-materials/enterprise-app-gateway-via-kafka/stream-transactions-over-webhooks
